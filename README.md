@@ -1,2 +1,2 @@
 # Gnomes
-Unreal Engine 4 C++ Turn-Based RPG
+Turn-Based RPG powered by Unreal Engine 4 C++ 
