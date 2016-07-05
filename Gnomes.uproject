@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2E4406D3-44C0-AB15-9339-D8908521E614}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Gnomes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
