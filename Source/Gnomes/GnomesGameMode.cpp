@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// DigitalDominus (C) 2016
 
 #include "Gnomes.h"
 #include "GnomesGameMode.h"
